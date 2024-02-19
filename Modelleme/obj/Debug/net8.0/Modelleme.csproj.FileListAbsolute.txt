@@ -1,0 +1,14 @@
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\bin\Debug\net8.0\Modelleme.exe
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\bin\Debug\net8.0\Modelleme.deps.json
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\bin\Debug\net8.0\Modelleme.runtimeconfig.json
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\bin\Debug\net8.0\Modelleme.dll
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\bin\Debug\net8.0\Modelleme.pdb
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\Modelleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\Modelleme.AssemblyInfoInputs.cache
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\Modelleme.AssemblyInfo.cs
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\Modelleme.csproj.CoreCompileInputs.cache
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\Modelleme.dll
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\refint\Modelleme.dll
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\Modelleme.pdb
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\Modelleme.genruntimeconfig.cache
+C:\Users\CuneytAnil\kodlamaIo\Modelleme\Modelleme\obj\Debug\net8.0\ref\Modelleme.dll
